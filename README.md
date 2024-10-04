@@ -37,6 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somvit09&show_icons=true&locale=en&layout=compact" alt="somvit09" /></p>
 
-<p>&nbsp;<img align="center" src="[https://github-readmestats.vercel.app/apiusername=Somvit09&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=Somvit09&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)" alt="somvit09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Somvit09&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark" alt="somvit09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somvit09&" alt="somvit09" /></p>

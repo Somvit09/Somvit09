@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **any kind of ML or AI based or Python based projects.**
 
-- 🤝 I’m looking for help with [my GPU optimisation project which helps user to select GPU for running particular functions.](https://github.com/Somvit09/Run-Program-on-GPU.git)
-
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/somvit-maity-173239196/details/projects/](https://www.linkedin.com/in/somvit-maity-173239196/details/projects/)
 
 - 💬 Ask me about **ML, AI, Ethical Hacking.**

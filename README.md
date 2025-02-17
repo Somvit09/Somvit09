@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somvit09" alt="somvit09" /></a></p>
 <div style="display: flex; justify-content: flex-end;">
-  <p align="right"><img src="https://komarev.com/ghpvc/?username=Somvit09&label=Profile%20views&color=0e75b6&style=for-the-badge"></p>
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=Somvit09&label=Profile%20views&color=brightgreen&style=plastic&abbreviated=true&base=1200"></p>
 </div>
 
 - 🔭 I’m currently working on **a ML based FastAPI Application.**

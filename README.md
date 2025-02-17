@@ -4,8 +4,8 @@
 </h1>
 
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Somvit09&label=Profile%20views&color=0e75b6&style=for-the-badge">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somvit09" alt="somvit09" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somvit09" alt="somvit09" /></a> <img align="right" src="https://komarev.com/ghpvc/?username=Somvit09&label=Profile%20views&color=0e75b6&style=for-the-badge"></p>
 
 - 🔭 I’m currently working on **a ML based FastAPI Application.**
 
